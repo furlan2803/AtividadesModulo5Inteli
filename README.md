@@ -9,7 +9,7 @@ ________________________________________________________________________________
   
 ### 📄 Semana 3
 
-<a href="https://youtu.be/CoXnqybYb8g">Questionário Blockchain & Smart Contract</a> - 15.02.2023
+<a href="https://github.com/furlan2803/AtividadesModulo5Inteli/tree/main/AtividadeProgramacaoSemana3">Questionário Blockchain & Smart Contract</a> - 15.02.2023
   
   
 # 📝 Atividades de Negócios
