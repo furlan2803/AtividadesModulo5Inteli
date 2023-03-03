@@ -10,6 +10,12 @@ ________________________________________________________________________________
 ### 📄 Semana 3
 
 <a href="https://github.com/furlan2803/AtividadesModulo5Inteli/tree/main/AtividadeProgramacaoSemana3">Questionário Blockchain & Smart Contract</a> - 15.02.2023
+
+### 📄 Semana 5
+
+<a href="https://github.com/furlan2803/AtividadesModulo5Inteli/tree/main/AtividadeProgramacaoSemana5
+">Uso de funções de hash em Python</a> - 02.03.2023
+
   
   
 # 📝 Atividades de Negócios
